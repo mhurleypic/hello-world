@@ -1,3 +1,3 @@
 # hello-world
-my first repository
-I'm a Senior Enterprise Architect
+My first repository
+This is only for learning purpose
